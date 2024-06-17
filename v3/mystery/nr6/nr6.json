@@ -1,7 +1,7 @@
 {
     "name": "NR6",
     "vendorId": "0x5555",
-    "productId": "0x999A",
+    "productId": "0x9999",
     "keycodes": ["qmk_lighting"],
     "menus": ["qmk_rgblight"],
     "matrix": {
