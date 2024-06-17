@@ -1,7 +1,7 @@
 {
   "name": "Okayut",
   "vendorId": "0x5350",
-  "productId": "0x00A1",
+  "productId": "0x00A0",
   "matrix": {
     "rows": 5,
     "cols": 14
