@@ -1,7 +1,7 @@
 {
     "name": "Sebas_Nuxros",
     "vendorId": "0x9999",
-    "productId": "0x0003",
+    "productId": "0x0004",
     "keycodes": ["qmk_lighting"],
     "menus": ["qmk_rgblight"],
     "matrix": {
