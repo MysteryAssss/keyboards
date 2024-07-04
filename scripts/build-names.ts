@@ -1,6 +1,6 @@
 import stringify from 'json-stringify-pretty-compact';
 import fs from 'fs-extra';
-import {VIADefinitionV3} from '@the-via/reader';
+import {VIADefinitionV3} from '@MysteryAssss/reader';
 import {getOutputPath} from './get-path';
 
 export async function buildNames(definitions: VIADefinitionV3[]) {
