@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/the-via/keyboards.git"
+    "url": "git+https://github.com/MysteryAssss/keyboards.git"
   },
   "author": "",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/the-via/keyboards/issues"
+    "url": "https://github.com/MysteryAssss/keyboards/issues"
   },
-  "homepage": "https://github.com/the-via/keyboards#readme",
+  "homepage": "https://github.com/MysteryAssss/keyboards#readme",
   "devDependencies": {
     "@types/node": "^18.14.0",
     "prettier": "^2.8.4",
